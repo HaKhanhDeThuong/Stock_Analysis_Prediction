@@ -7,9 +7,11 @@ Welcome to the Stock Analysis project! This project aims to facilitate the analy
   
 **Handling Missing Data with Random Forest:**
 - Develop the ability to handle missing data effectively using Random Forest techniques.
+  
 **Building Cluster Models:**
 - Construct cluster models to identify patterns within the stock market data.
 - Analyze the identified patterns to extract meaningful insights.
+  
 **Drawing Conclusions from Analysis:**
 - Utilize the results of the analysis to draw informed conclusions about the stock data.
 - Evaluate whether investing in specific stocks is advisable, assess associated risks, and consider potential profitability.
