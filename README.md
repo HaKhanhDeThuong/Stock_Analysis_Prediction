@@ -4,6 +4,7 @@ Welcome to the Stock Analysis project! This project aims to facilitate the analy
 **Fundamental Concepts and Time Series Analysis:** 
 - Gain a solid understanding of fundamental concepts in stock markets.
 - Explore time series data and delve into basic machine learning algorithms such as Principal Component Analysis (PCA) and K-means clustering.
+  
 **Handling Missing Data with Random Forest:**
 - Develop the ability to handle missing data effectively using Random Forest techniques.
 **Building Cluster Models:**
